@@ -1,4 +1,3 @@
-# first-ml-model
 # Dynamic-Traffic-light-management-system
 This repository contains files for the traffic light management system using machine Learning.
 
@@ -93,4 +92,3 @@ More than one cross road will return an error.<br/>
 For running Arduino for testing use --ard.
 
 `python train.py -m model_name -s 500 --ard`
-
